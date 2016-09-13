@@ -1,4 +1,4 @@
-# urho3d-component-tail-generator
+## This is obsolete after https://github.com/urho3d/Urho3D/pull/1418
 Tail generator component for Urho3D engine
 
 Using:
